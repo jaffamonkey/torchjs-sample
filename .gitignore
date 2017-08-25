@@ -9,6 +9,5 @@ build/
 macaca-logs/
 *.sw*
 *.un~
-diff.png
 reports/
 screenshots/

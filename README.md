@@ -4,8 +4,8 @@
 
 [gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square
 [gitter-url]: https://gitter.im/alibaba/macaca
-[travis-image]: https://img.shields.io/travis/macaca-sample/torch-sample.svg?style=flat-square
-[travis-url]: https://travis-ci.org/macaca-sample/torch-sample
+[travis-image]: https://img.shields.io/travis/macaca-sample/torchjs-sample.svg?style=flat-square
+[travis-url]: https://travis-ci.org/macaca-sample/torchjs-sample
 
 
 ## License
