@@ -1,0 +1,19 @@
+{
+  "name": "torchjs-sample",
+  "version": "1.0.0",
+  "description": "Macaca sample for Node.js",
+  "keywords": [
+    "macaca",
+    "sample",
+    "automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macaca-sample/torchjs-sample.git"
+  },
+  "devDependencies": {
+    "macaca-utils": "*",
+    "should": "^11.1.2"
+  },
+  "license": "MIT"
+}
