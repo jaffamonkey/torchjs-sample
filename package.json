@@ -12,9 +12,8 @@
     "url": "git://github.com/macaca-sample/torchjs-sample.git"
   },
   "devDependencies": {
-    "torchjs": "^0.3.3",
     "macaca-utils": "*",
-    "should": "^11.1.2"
+    "torchjs": "^0.3.3"
   },
   "scripts": {
     "test": "torch --renderer test/*.test.js",
