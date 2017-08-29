@@ -13,11 +13,12 @@
   },
   "devDependencies": {
     "macaca-utils": "*",
+    "opn": "^5.1.0",
     "torchjs": "^0.3.3"
   },
   "scripts": {
     "test": "torch --renderer test/*.test.js",
-    "test:debug": "torch --renderer --interactive --watch --notify-on-fail --debug test/*.test.js"
+    "test:debug": "DEBUG=true torch --renderer --interactive --watch --notify-on-fail --debug test/*.test.js"
   },
   "license": "MIT"
 }

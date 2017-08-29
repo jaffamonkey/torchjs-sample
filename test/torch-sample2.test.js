@@ -1,5 +1,6 @@
 'use strict';
 
+const opn = require('opn');
 const path = require('path');
 const {
   appendToContext
@@ -23,6 +24,12 @@ describe('test/torch-sample.test.js', function() {
         done();
       });
     }, 1500);
+  });
+
+  after(function() {
+    if (process.env.DEBUG) {
+      opn(path.join(__dirname, '..', 'reports', 'index.html'));
+    }
   });
 
   describe('test suites 1', function() {

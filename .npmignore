@@ -8,7 +8,6 @@ examples/
 .jshintignore
 coverage/
 screenshot/
-macaca-logs/
 *.sw*
 *.un~
 reports/
