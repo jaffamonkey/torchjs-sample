@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jaffamonkey/torchjs-uitest-electron.svg?branch=master)](https://travis-ci.org/jaffamonkey/torchjs-uitest-electron)
 # torchjs-sample
 
 [![build status][travis-image]][travis-url] [![Gitter Chat][gitter-image]][gitter-url]
